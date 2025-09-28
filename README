@@ -1,0 +1,27 @@
+# 🚗 Car Sales Analysis Dashboards
+
+## 📌 Overview
+This project analyzes car sales data to provide insights into market trends, customer preferences, and performance metrics across various car brands and models. The dashboards help stakeholders quickly identify top-performing vehicles, pricing trends, mileage efficiency, and demand for second-use cars.  
+
+## 🎯 Key Objectives
+- Categorize cars based on brand, price range, mileage, and color.  
+- Compare new and second-use cars to highlight differences in demand.  
+- Identify top mileage cars and premium brands based on sales.  
+- Provide an easy-to-use dashboard for customers to select cars based on preferences.  
+
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** → Data cleaning & preprocessing  
+- **Power BI** → Interactive dashboards & visualizations  
+- **DAX Functions** → Advanced calculations & KPIs  
+
+## 📊 Process
+1. **Data Cleaning**: Removed duplicates, standardized car brand names, handled missing values.  
+2. **Data Segmentation**: Classified cars by mileage, price, brand, and usage type (new vs second-use).  
+3. **Visualization**: Built interactive dashboards in Power BI, allowing filtering by price, mileage, and brand.  
+4. **Analysis**: Applied DAX functions to compute KPIs such as average mileage, top-priced brands, and budget-friendly options.  
+
+## 📈 Outcome
+- Created a clear and concise dashboard that helps customers quickly identify cars that fit their requirements.  
+- Highlighted top mileage cars for budget-conscious buyers.  
+- Identified luxury and premium brands for high-end customers.  
+- Improved the overall decision-making process for both buyers and sellers.  
